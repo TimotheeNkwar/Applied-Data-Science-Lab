@@ -79,10 +79,10 @@ Below is a summary of the key projects completed during the program:
 
 ## Contact
 For questions or inquiries about my work, feel free to reach out:
-- **GitHub**: [your-username](https://github.com/your-username)
-- **Email**: [your-email@example.com]
-- **LinkedIn**: [your-linkedin-profile](https://linkedin.com/in/your-profile)
+- **GitHub**: [your-username](https://github.com/TimotheeNkwar/Applied-Data-Science-Lab/edit/main/README.md)
+- **Email**: [timotheenkwar16@gmail.com]
+- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/timothee-nkwar-728377222/)
 
-<img src="https://github.com/TimotheeNkwar/Applied-Data-Science-Lab/blob/main/logo.png" width="150">
+<img src="https://github.com/TimotheeNkwar/Applied-Data-Science-Lab/blob/main/logo.png" width="400">
 
 Thank you for visiting my repository!
