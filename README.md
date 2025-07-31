@@ -5,6 +5,9 @@ This repository showcases projects completed as part of the **Applied Data Scien
 
 
 <img src="https://github.com/TimotheeNkwar/Applied-Data-Science-Lab/blob/main/logo.png" width="500">
+
+
+
 ## Table of Contents
 - [About the Applied Data Science Lab](#about-the-applied-data-science-lab)
 - [Project Descriptions](#project-descriptions)
