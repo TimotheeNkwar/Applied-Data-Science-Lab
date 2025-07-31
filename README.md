@@ -20,7 +20,7 @@ The **Applied Data Science Lab** at WorldQuant University equips students with p
 
 The projects in this repository demonstrate my ability to apply these techniques to solve real-world problems, from predictive modeling to data pipeline development.
 
-![Applied Data Science Lab - Completed Badge]([attachment://applied-data-science-lab-badge.png](https://github.com/TimotheeNkwar/Applied-Data-Science-Lab/blob/main/applied-data-science-lab.2.png))
+![Applied Data Science Lab - Completed Badge](https://github.com/TimotheeNkwar/Applied-Data-Science-Lab/blob/main/applied-data-science-lab.2.png))
 
 ## Project Descriptions
 Below is a summary of the key projects completed during the program:
