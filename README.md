@@ -83,6 +83,6 @@ For questions or inquiries about my work, feel free to reach out:
 - **Email**: [your-email@example.com]
 - **LinkedIn**: [your-linkedin-profile](https://linkedin.com/in/your-profile)
 
-![WorldQuant University Logo](https://github.com/TimotheeNkwar/Applied-Data-Science-Lab/blob/main/logo.png))
+<img src="https://github.com/TimotheeNkwar/Applied-Data-Science-Lab/blob/main/logo.png" width="150">
 
 Thank you for visiting my repository!
