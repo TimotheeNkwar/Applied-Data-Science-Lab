@@ -1,51 +1,100 @@
-# DME  
-**MIT License**
+Applied Data Science Lab Projects - WorldQuant University
+Overview
+This repository showcases projects completed as part of the Applied Data Science Lab at WorldQuant University, a program focused on real-world data science applications. Through hands-on projects, I developed skills in Python, machine learning, data analytics, and visualization, with a focus on end-to-end data science workflows applied to diverse domains such as finance, environmental analysis, and customer segmentation.
+Table of Contents
 
----
+About the Applied Data Science Lab
+Project Descriptions
+Skills Demonstrated
+Technologies Used
+Contact
 
-⭐ **Applied Data Science Lab [2023]**
+About the Applied Data Science Lab
+The Applied Data Science Lab at WorldQuant University equips students with practical data science skills through project-based learning. The curriculum emphasizes:
 
-The Applied Data Science Lab, offered by WorldQuant University, is an immersive online program designed to equip students with practical skills in addressing real-world, intricate challenges. Spanning over 16 weeks, the program engages participants in a series of comprehensive data science projects that enable them to develop proficiency in data wrangling, analysis, model-building and effective communication through hands-on experience.
+Data preprocessing and cleaning
+Exploratory data analysis (EDA)
+Machine learning and predictive modeling
+Data visualization and dashboard creation
+Statistical analysis and experimentation
 
-Throughout the program, I had the opportunity to actively participate in eight fascinating projects, all designed to strengthen fundamental data science concepts. Let me offer a concise explanation of each project.
+The projects in this repository demonstrate my ability to apply these techniques to solve real-world problems, from predictive modeling to data pipeline development.
+Project Descriptions
+Below is a summary of the key projects completed during the program:
 
----
+Housing Price Prediction
 
-### Project Summaries
+Objective: Predict housing prices using regression techniques.
+Activities: Performed data cleaning, feature engineering, and exploratory analysis. Built and evaluated regression models to predict property values.
+Outcomes: Developed accurate models for housing price prediction and gained insights into key factors influencing property values.
 
-1. **Real Estate Price Analysis**  
-   Analyzed a dataset comprising 21,000 properties to ascertain whether real estate prices are predominantly influenced by property size or location. The process involved importing and cleaning data from a CSV file, creating data visualizations and exploring the correlation between the two variables.
 
-2. **Apartment Price Prediction in Argentina**  
-   Developed a linear regression model aimed at predicting apartment prices in Argentina. Established a data pipeline to handle missing values and encode categorical features, subsequently enhancing model performance through the reduction of overfitting.
+Air Quality Forecasting
 
-3. **Air Quality Forecasting in Kenya**  
-   Built an ARMA time-series model for forecasting particulate matter levels in Kenya. Extracted data from a MongoDB database using pymongo and fine-tuned model performance through hyperparameter adjustments.
+Objective: Forecast air quality metrics using time-series analysis.
+Activities: Processed time-series data stored in MongoDB and applied forecasting techniques to predict air quality trends.
+Outcomes: Successfully forecasted air quality metrics, demonstrating proficiency in time-series modeling and database integration.
 
-4. **Earthquake Damage Prediction**  
-   Constructed logistic regression and decision tree models for predicting earthquake damage to buildings. Extracted relevant data from a SQLite database and identified biases within the dataset that may contribute to discriminatory outcomes.
 
-5. **Company Bankruptcy Prediction**  
-   Developed random forest and gradient boosting models for predicting the likelihood of a company going bankrupt. Navigated the Linux command line, addressed data imbalance through resampling techniques and evaluated the impact of performance metrics such as precision and recall.
+Earthquake Building Damage Classification
 
-6. **Customer Segmentation**  
-   Constructed a k-means model to cluster US consumers into distinct groups, employed principal component analysis (PCA) for data visualization and finally designed an interactive dashboard using Plotly Dash.
+Objective: Classify building damage levels caused by earthquakes.
+Activities: Built and evaluated classification models to predict damage severity based on structural and environmental features.
+Outcomes: Achieved robust classification performance and gained experience in handling imbalanced datasets.
 
-7. **Program Enrollment Impact Analysis**  
-   Performed a chi-square test to assess the impact of email communication on program enrollment at WQU. Developed custom Python classes for an Extract, Transform, Load (ETL) process and designed an interactive data application following a three-tiered design pattern.
 
-8. **Stock Volatility Forecasting**  
-   Developed a GARCH time series model to forecast asset volatility, retrieved stock data via an API, cleaned and stored the data in a SQLite database and lastly constructed an API to deliver model predictions.
+Company Bankruptcy Detection
 
----
+Objective: Detect potential company bankruptcy using ensemble learning.
+Activities: Applied ensemble learning techniques to financial datasets, focusing on feature selection and model optimization.
+Outcomes: Developed models to identify bankruptcy risk with high accuracy, showcasing skills in financial data analysis.
 
-⚡ **Completion Badge**
 
----
+Customer Segmentation
 
-> **NOTE:** The code content of the projects will not be uploaded due to copyright issues.
+Objective: Segment customers based on behavior and characteristics.
+Activities: Used k-means clustering and PCA for dimensionality reduction. Built an interactive Dash dashboard to visualize segments.
+Outcomes: Created meaningful customer segments and delivered an interactive tool for data exploration.
 
----
 
-**Let's connect:**  
-[LinkedIn](https://www.linkedin.com/in/yourprofile) | [Gmail](mailto:your.email@example.com)
+A/B Testing and ETL Pipelines
+
+Objective: Design and analyze A/B tests and develop ETL pipelines.
+Activities: Conducted A/B tests to evaluate hypotheses and built ETL pipelines for efficient data processing.
+Outcomes: Gained expertise in experimental design and automated data workflows.
+
+
+Stock Volatility Modeling
+
+Objective: Model stock price volatility using financial data.
+Activities: Applied GARCH models and integrated external data via APIs to analyze stock volatility.
+Outcomes: Produced reliable volatility forecasts and demonstrated proficiency in quantitative finance techniques.
+
+
+
+Note: Due to copyright restrictions, specific code and datasets are not included in this repository. The descriptions above outline the objectives and outcomes of each project.
+Skills Demonstrated
+
+Data Analysis: Cleaning, transforming, and exploring datasets to derive actionable insights.
+Machine Learning: Building and evaluating regression, classification, clustering, and time-series models.
+Quantitative Finance: Modeling financial metrics such as stock volatility using statistical methods.
+Data Visualization: Creating interactive dashboards and visualizations to communicate findings.
+Data Engineering: Designing ETL pipelines and integrating data from APIs and databases.
+Experimentation: Conducting A/B tests to validate hypotheses and inform decision-making.
+
+Technologies Used
+
+Programming Language: Python
+Libraries: Pandas, NumPy, Scikit-learn, Plotly, Dash
+Databases: SQL, MongoDB
+Other Tools: APIs, Jupyter Notebook, Git
+Environment: Python 3.8+
+
+Contact
+For questions or inquiries about my work, feel free to reach out:
+
+GitHub: your-username
+Email: [your-email@example.com]
+LinkedIn: your-linkedin-profile
+
+Thank you for visiting my repository!
