@@ -65,7 +65,7 @@ Below is a summary of the key projects completed during the program:
    - **Activities**: Applied GARCH models and integrated external data via APIs to analyze stock volatility.
    - **Outcomes**: Produced reliable volatility forecasts and demonstrated proficiency in quantitative finance techniques.
 
-<div style="color: red; border: 1px solid red; padding: 10px; background-color: #ffebee;">
+<div style="color: red; border: 10px solid red; padding: 10px; background-color: red;">
   <strong>WARNING:</strong> Due to copyright restrictions, specific code and datasets are not included in this repository. The descriptions above outline the objectives and outcomes of each project.
 </div>
 
