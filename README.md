@@ -2,6 +2,8 @@
 
 ## Overview
 This repository showcases projects completed as part of the **Applied Data Science Lab** at **WorldQuant University**, a program focused on real-world data science applications. Through hands-on projects, I developed skills in Python, machine learning, data analytics, and visualization, with a focus on end-to-end data science workflows applied to diverse domains such as finance, environmental analysis, and customer segmentation.
+
+
 <img src="https://github.com/TimotheeNkwar/Applied-Data-Science-Lab/blob/main/logo.png" width="500">
 ## Table of Contents
 - [About the Applied Data Science Lab](#about-the-applied-data-science-lab)
