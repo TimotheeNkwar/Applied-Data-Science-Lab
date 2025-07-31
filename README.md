@@ -20,6 +20,8 @@ The **Applied Data Science Lab** at WorldQuant University equips students with p
 
 The projects in this repository demonstrate my ability to apply these techniques to solve real-world problems, from predictive modeling to data pipeline development.
 
+![Applied Data Science Lab - Completed Badge](attachment://applied-data-science-lab-badge.png)
+
 ## Project Descriptions
 Below is a summary of the key projects completed during the program:
 
@@ -80,5 +82,7 @@ For questions or inquiries about my work, feel free to reach out:
 - **GitHub**: [your-username](https://github.com/your-username)
 - **Email**: [your-email@example.com]
 - **LinkedIn**: [your-linkedin-profile](https://linkedin.com/in/your-profile)
+
+![WorldQuant University Logo]([attachment://worldquant-university-logo.png](https://media.licdn.com/dms/image/v2/D5612AQE7MtLF83jtzg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721098765011?e=2147483647&v=beta&t=Kg_nsVyVa_jU8tvvyOBheQw_Fu_11_OP_F2PICxTkKc))
 
 Thank you for visiting my repository!
